@@ -1,4 +1,9 @@
  First Line 
 Seconf Line
 Thried Line
+<<<<<<< Updated upstream
 Fifth Line
+||||||| Stash base
+=======
+Forth Line
+>>>>>>> Stashed changes
